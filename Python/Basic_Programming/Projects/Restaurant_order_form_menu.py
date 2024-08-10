@@ -1,4 +1,4 @@
-# show menu
+# SHOW MENU
 menu = {
     1: {"name": "Pizza", "price": 50},
     2: {"name": "Pasta", "price": 30},
@@ -7,6 +7,7 @@ menu = {
     5: {"name": "Salad", "price": 0}
 }
 
+# MENU FORMAT
 def display_menu():
     print("YOUR PYTHON RESTURANT ")
     print("-----------------------")
@@ -17,12 +18,11 @@ def display_menu():
 
     print("\nIn our healthy resturant salad is 'FREE of cost'")
 
-
+# ORDER ITEMS
 def order_item():
     display_menu()
     total_bill = 0
     your_items = []
-    ordered_salad = False
 
     while True:
         choices = int(input('\nEnter 1 to 5 for what you want for eat :'))
@@ -44,5 +44,7 @@ def order_item():
     print(f"\nYour ordered items are {', '.join(your_items)}")
     print(f"You need to pay :{total_bill}")
     
-# call 
+# CALL FUNCTION
 order_item()
+
+# TIME -> 7:50AM Saturday, 10 August 2024 (IST)
