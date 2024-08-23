@@ -4,3 +4,4 @@
 3. Two-number calculator
 4. Mini To-Do
 5. Password Generator
+6. Morse code Translator
