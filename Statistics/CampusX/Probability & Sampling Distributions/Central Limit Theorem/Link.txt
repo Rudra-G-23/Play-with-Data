@@ -1,0 +1,4 @@
+Case Study of CLT on titanic dataset : https://www.kaggle.com/code/campusx/titanic-clt
+
+
+Z table : https://www.ztable.net/#google_vignette

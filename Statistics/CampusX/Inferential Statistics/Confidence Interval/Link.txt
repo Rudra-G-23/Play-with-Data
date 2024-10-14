@@ -1,0 +1,9 @@
+T table : https://www.sjsu.edu/faculty/gerstman/StatPrimer/t-table.pdf
+
+Sir viz Link :
+1. Central interval viz : https://campusx-official-confidence-interval-viz-app-kwg6wq.streamlit.app/
+
+
+2. Confidence interval calculator : https://campusx-official-z-distribution-conf-confidence-interval-bx6u60.streamlit.app/
+
+3. t and normal distribution comparsion viz :https://campusx-official-normal-distribution-vs-t-distributi-app-28si1q.streamlit.app/
