@@ -1,0 +1,177 @@
+"country","MostDangerousCountriesForWomen_WomenPeaceAndSecurityIndex_Score_2023","MostDangerousCountriesForWomen_WomensDangerIndexWDI_TotalScore_2019","MostDangerousCountriesForWomen_WDIStreetSafety_2019","MostDangerousCountriesForWomen_WDIIntentionalHomicide_2019","MostDangerousCountriesForWomen_WDINonPartnerViolence_2019","MostDangerousCountriesForWomen_WDIIntimatePartnerViolence_2019","MostDangerousCountriesForWomen_WDILegalDiscrimination_2019","MostDangerousCountriesForWomen_WDIGlobalGenderGap_2019","MostDangerousCountriesForWomen_WDIGenderInequality_2019","MostDangerousCountriesForWomen_WDIAttitudesTowardViolence_2019"
+"India",0.595,541.25,41,30,19,83,44,79,100,74
+"China",0.7,444.55,23,6,70,86,44,78,29,80
+"United States",0.823,456.31,51,25,75,81,24,68,36,21
+"Indonesia",0.7,442.1,37,3,30,66,54,74,86,51
+"Pakistan",0.481,,,,,,,,,
+"Nigeria",0.465,,,,,,,,,
+"Brazil",0.63,624.28,96,49,44,82,30,76,78,25
+"Bangladesh",0.593,,,,,,,,,
+"Russia",0.752,592.71,69,77,40,47,50,73,49,41
+"Ethiopia",0.521,,,,,,,,,
+"Mexico",0.551,576.05,89,49,88,31,15,74,65,26
+"Japan",0.866,366.2,47,3,70,34,37,82,20,23
+"Egypt",0.645,546.91,71,7,26,58,65,94,86,64
+"Philippines",0.612,408.23,55,25,30,32,31,50,81,23
+"DR Congo",0.384,,,,,,,,,
+"Vietnam",0.707,449.65,63,5,11,76,37,72,58,59
+"Iran",0.557,553.11,69,11,26,59,85,100,88,34
+"Turkey",0.665,521.83,72,18,26,84,41,90,60,41
+"Germany",0.871,335.1,41,12,40,49,39,53,14,33
+"Thailand",0.764,533.22,45,13,30,98,41,73,75,100
+"United Kingdom",0.86,296.85,31,10,40,64,15,55,22,20
+"Tanzania",0.652,,,,,,,,,
+"France",0.864,309.92,40,12,52,58,17,53,16,11
+"South Africa",0.688,771.82,100,100,100,56,28,59,74,56
+"Italy",0.827,323.19,59,5,29,42,22,74,17,11
+"Kenya",0.511,,,,,,,,,
+"Myanmar",0.451,,,,,,,,,
+"Colombia",0.582,,,,,,,,,
+"South Korea",0.848,366.98,51,8,70,31,20,84,12,31
+"Sudan",0.46,,,,,,,,,
+"Uganda",0.544,,,,,,,,,
+"Spain",0.859,212.04,24,5,17,29,15,61,15,16
+"Algeria",0.622,,,,,,,,,
+"Iraq",0.424,,,,,,,,,
+"Argentina",0.768,494.11,92,19,34,73,26,64,68,7
+"Afghanistan",0.286,,,,,,,,,
+"Yemen",0.287,,,,,,,,,
+"Canada",0.885,290.83,35,9,75,14,31,55,18,10
+"Poland",0.859,291.23,53,4,11,29,30,65,25,16
+"Morocco",0.637,542.75,59,6,26,100,46,96,92,52
+"Angola",0.598,,,,,,,,,
+"Ukraine",0.626,453.61,81,27,6,29,41,71,54,36
+"Uzbekistan",0.674,,,,,,,,,
+"Malaysia",0.738,527.64,72,8,30,66,69,79,55,69
+"Mozambique",0.58,,,,,,,,,
+"Ghana",0.651,,,,,,,,,
+"Peru",0.717,,,,,,,,,
+"Saudi Arabia",0.737,524.36,56,13,30,60,100,100,45,52
+"Madagascar",0.505,,,,,,,,,
+"Ivory Coast",0.573,,,,,,,,,
+"Nepal",0.644,,,,,,,,,
+"Cameroon",0.466,,,,,,,,,
+"Venezuela",0.628,,,,,,,,,
+"Niger",0.442,,,,,,,,,
+"Australia",0.902,370.1,57,7,95,38,17,65,21,7
+"Syria",0.407,,,,,,,,,
+"Mali",0.481,,,,,,,,,
+"Burkina Faso",0.481,,,,,,,,,
+"Taiwan",0.818,,,,,,,,,
+"Sri Lanka",0.743,,,,,,,,,
+"Malawi",0.521,,,,,,,,,
+"Zambia",0.556,,,,,,,,,
+"Kazakhstan",0.729,,,,,,,,,
+"Chad",0.462,,,,,,,,,
+"Chile",0.736,487.96,81,11,34,79,39,71,61,20
+"Romania",0.8,,,,,,,,,
+"Somalia",0.417,,,,,,,,,
+"Senegal",0.619,,,,,,,,,
+"Guatemala",0.569,,,,,,,,,
+"Netherlands",0.908,302.81,32,4,69,56,20,63,8,15
+"Ecuador",0.655,,,,,,,,,
+"Cambodia",0.645,485.73,65,6,23,47,30,78,90,75
+"Zimbabwe",0.604,,,,,,,,,
+"Guinea",0.539,,,,,,,,,
+"Benin",0.566,,,,,,,,,
+"Rwanda",0.663,,,,,,,,,
+"Burundi",0.394,,,,,,,,,
+"Bolivia",0.696,,,,,,,,,
+"Tunisia",0.669,468.26,63,11,26,45,59,84,57,49
+"South Sudan",0.388,,,,,,,,,
+"Haiti",0.431,,,,,,,,,
+"Belgium",0.902,372.88,63,16,46,53,26,63,9,20
+"Jordan",0.679,,,,,,,,,
+"Dominican Republic",0.666,551.32,89,35,59,50,28,73,86,7
+"United Arab Emirates",0.868,450.66,51,13,26,30,87,84,44,52
+"Honduras",0.61,,,,,,,,,
+"Czech Republic",0.884,325.33,47,7,23,47,30,75,24,20
+"Sweden",0.926,326.42,44,7,69,62,22,44,8,20
+"Tajikistan",0.69,,,,,,,,,
+"Papua New Guinea",0.487,,,,,,,,,
+"Portugal",0.877,277.58,47,10,6,42,17,64,17,20
+"Azerbaijan",0.667,,,,,,,,,
+"Greece",0.766,337.8,71,5,6,42,22,74,23,20
+"Hungary",0.835,375.89,57,18,17,47,19,79,49,15
+"Togo",0.595,,,,,,,,,
+"Israel",0.703,,,,,,,,,
+"Austria",0.911,251.63,27,8,23,29,28,70,14,20
+"Belarus",0.733,,,,,,,,,
+"Switzerland",0.928,252.78,15,7,66,22,30,59,7,26
+"Sierra Leone",0.543,,,,,,,,,
+"Laos",0.704,,,,,,,,,
+"Turkmenistan",0.75,,,,,,,,,
+"Hong Kong",0.812,,,,,,,,,
+"Libya",0.61,,,,,,,,,
+"Kyrgyzstan",0.673,,,,,,,,,
+"Paraguay",0.691,,,,,,,,,
+"Nicaragua",0.717,,,,,,,,,
+"Bulgaria",0.826,380.84,61,7,34,47,30,59,41,34
+"Serbia",0.835,,,,,,,,,
+"El Salvador",0.566,,,,,,,,,
+"Republic of the Congo",0.507,,,,,,,,,
+"Denmark",0.932,320.65,28,9,63,71,31,54,8,20
+"Singapore",0.887,245.26,9,5,19,14,46,71,13,67
+"Lebanon",0.595,,,,,,,,,
+"Finland",0.924,,,,,,,,,
+"Liberia",0.5,,,,,,,,,
+"Norway",0.92,259.92,16,5,66,62,22,41,9,18
+"Slovakia",0.856,,,,,,,,,
+"Palestine",0.483,,,,,,,,,
+"Central African Republic",0.378,,,,,,,,,
+"Oman",0.715,,,,,,,,,
+"Ireland",0.892,247.31,35,4,29,33,19,49,21,20
+"New Zealand",0.904,,,,,,,,,
+"Mauritania",0.506,,,,,,,,,
+"Costa Rica",0.743,,,,,,,,,
+"Kuwait",0.742,,,,,,,,,
+"Panama",0.757,,,,,,,,,
+"Croatia",0.862,286.53,43,10,17,29,22,69,24,20
+"Georgia",0.812,,,,,,,,,
+"Mongolia",0.794,,,,,,,,,
+"Uruguay",0.748,,,,,,,,,
+"Puerto Rico",0.692,,,,,,,,,
+"Bosnia and Herzegovina",0.754,,,,,,,,,
+"Qatar",0.703,,,,,,,,,
+"Moldova",0.758,,,,,,,,,
+"Namibia",0.61,,,,,,,,,
+"Armenia",0.772,,,,,,,,,
+"Lithuania",0.886,,,,,,,,,
+"Jamaica",0.71,,,,,,,,,
+"Albania",0.796,,,,,,,,,
+"Gambia",0.575,,,,,,,,,
+"Gabon",0.593,,,,,,,,,
+"Botswana",0.659,,,,,,,,,
+"Lesotho",0.605,,,,,,,,,
+"Guinea-Bissau",0.483,,,,,,,,,
+"Slovenia",0.824,,,,,,,,,
+"Equatorial Guinea",0.619,,,,,,,,,
+"Latvia",0.872,,,,,,,,,
+"North Macedonia",0.798,,,,,,,,,
+"Bahrain",0.752,476.09,64,14,26,30,81,88,42,52
+"Trinidad and Tobago",0.721,,,,,,,,,
+"Timor-Leste",0.664,,,,,,,,,
+"Estonia",0.892,,,,,,,,,
+"Cyprus",0.739,,,,,,,,,
+"Mauritius",0.678,,,,,,,,,
+"Eswatini",0.415,,,,,,,,,
+"Djibouti",0.504,,,,,,,,,
+"Fiji",0.738,,,,,,,,,
+"Comoros",0.519,,,,,,,,,
+"Guyana",0.769,,,,,,,,,
+"Solomon Islands",0.664,,,,,,,,,
+"Bhutan",0.7,,,,,,,,,
+"Luxembourg",0.924,,,,,,,,,
+"Montenegro",0.808,,,,,,,,,
+"Suriname",0.694,,,,,,,,,
+"Malta",0.846,,,,,,,,,
+"Maldives",0.72,,,,,,,,,
+"Cape Verde",0.738,,,,,,,,,
+"Belize",0.657,,,,,,,,,
+"Iceland",0.924,,,,,,,,,
+"Vanuatu",0.644,,,,,,,,,
+"Barbados",0.779,,,,,,,,,
+"Sao Tome and Principe",0.648,,,,,,,,,
+"Samoa",0.711,,,,,,,,,
+"Seychelles",0.799,,,,,,,,,
+"Tonga",0.697,,,,,,,,,
