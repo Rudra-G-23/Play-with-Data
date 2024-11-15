@@ -1,4 +1,5 @@
-Case Study of CLT on titanic dataset : https://www.kaggle.com/code/campusx/titanic-clt
+Case Study of CLT on Titanic dataset: https://www.kaggle.com/code/campusx/titanic-clt
 
+Z table: https://www.ztable.net/#google_vignette
 
-Z table : https://www.ztable.net/#google_vignette
+Central of Tendency: https://www.kaggle.com/code/jgroff/unit-2-central-tendency-and-variability/notebook
